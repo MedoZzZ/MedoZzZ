@@ -25,14 +25,15 @@ company: Taza
 title: Z-programmer
 interests:
   - Back-End
-  - linux
+  - Linux
   - Database
-  - open-source
+  - Open-source
 programming-languages:
   - c/c++
   - javaScript
   - java
-  - c#
+  - CS
+
 ```
 ##
 
